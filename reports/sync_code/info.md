@@ -1,4 +1,0 @@
-# Header 1
-### Header 3
-
-text **bold**
